@@ -116,3 +116,18 @@
 .icon-icon-wand:before {
   content: "\e019";
 }
+.icon-icon-box:before {
+  content: "\e01a";
+}
+.icon-icon-dropbox:before {
+  content: "\e01b";
+}
+.icon-icon-circle-sign:before {
+  content: "\e01c";
+}
+.icon-icon-circle-download:before {
+  content: "\e01d";
+}
+.icon-icon-google:before {
+  content: "\e01e";
+}

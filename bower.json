@@ -1,0 +1,25 @@
+{
+  "name": "Shakecons",
+  "version": "0.0.1",
+  "homepage": "https://github.com/shake-apps/Shakecons",
+  "authors": [
+    "Nate Schulte"
+  ],
+  "description": "Icon Fonts for Shake.",
+  "main": "index.html",
+  "keywords": [
+    "Shake",
+    "font",
+    "icon",
+    "font-icons"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
