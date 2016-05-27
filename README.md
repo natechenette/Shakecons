@@ -1,2 +1,3 @@
 # Shakecons
-Icons for Shake
+
+Icon font used at shakelaw.com
